@@ -1,0 +1,8 @@
+{
+    "name": "Repository Phim",
+    "description": "Phim vietsub",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/h1tm4n8x/phim/builds/plugins.json"
+    ]
+  }
