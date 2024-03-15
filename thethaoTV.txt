@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.xyz/schedule/khanggtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml" billed-msg="Liên hệ sử dụng nguồn "
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" billed-msg="Tham gia group Zalo để nhận thông báo: https://zalo.me/g/uxqzbn404"
 
 
 #EXTINF:-1 group-title="Trực tiếp" group-logo="https://tchiphuong.github.io/iptv/images/background/live.png" tvg-id="vebomay00" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",VEBOtv 0
