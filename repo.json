@@ -1,6 +1,6 @@
 {
-    "name": "Repository Phim4K",
-    "description": "Phim vietsub",
+    "name": "Phim4K",
+    "description": "Phim Vietsub",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/h1tm4n8x/phim/builds/plugins.json"
