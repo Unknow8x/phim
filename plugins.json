@@ -1,0 +1,26 @@
+[    
+    {
+        "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/h1tm4n8x/phim",
+        "fileSize": 297583,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Hexated",
+            "Sora",
+            "TuaSan"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "SoraStreamVn",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/h1tm4n8x/phim/builds/SoraStreamVn.cs3",
+        "name": "SoraStreamVn"
+    }
+]
