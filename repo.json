@@ -1,6 +1,6 @@
 {
     "name": "Phim 4K",
-    "description": "Phim Vietsub",
+    "description": "Phim Trung",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/unknow8x/phim/builds/plugins.json"
