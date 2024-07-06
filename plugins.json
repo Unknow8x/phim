@@ -1,164 +1,21 @@
 [
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yanetflix.com&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/unknow8x/phim",
-        "fileSize": 23024,
+        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "fileSize": 791178,
         "status": 1,
-        "language": "zh",
+        "language": "vi",
         "authors": [
-            
+            "h1tm4n"
         ],
         "tvTypes": [
-            "Movie",
-            "AnimeMovie",
             "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
+            "Movie",
+            "Anime"
         ],
         "version": 1,
-        "internalName": "DamixingqiuProvider",
-        "url": "https://raw.githubusercontent.com/unknow8x/phim/builds/DamixingqiuProvider.cs3",
-        "name": "DamixingqiuProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ddys.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/unknow8x/phim",
-        "fileSize": 17097,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "DdysProvider",
-        "url": "https://raw.githubusercontent.com/unknow8x/phim/builds/DdysProvider.cs3",
-        "name": "DdysProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.libvio.me&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/unknow8x/phim",
-        "fileSize": 18041,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 8,
-        "internalName": "LibvioProvider",
-        "url": "https://raw.githubusercontent.com/unknow8x/phim/builds/LibvioProvider.cs3",
-        "name": "LibvioProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.nivod.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/unknow8x/phim",
-        "fileSize": 28186,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 2,
-        "internalName": "NivodProvider",
-        "url": "https://raw.githubusercontent.com/unknow8x/phim/builds/NivodProvider.cs3",
-        "name": "NivodProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.oulevod.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/unknow8x/phim",
-        "fileSize": 12003,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 4,
-        "internalName": "OulevodProvider",
-        "url": "https://raw.githubusercontent.com/unknow8x/phim/builds/OulevodProvider.cs3",
-        "name": "OulevodProvider"
-    },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/unknow8x/phim",
-        "fileSize": 45245,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Cartoon",
-            "Anime",
-            "AsianDrama",
-            "Documentary",
-            "Others"
-        ],
-        "version": 10,
-        "internalName": "SuperVod",
-        "url": "https://raw.githubusercontent.com/unknow8x/phim/builds/SuperVod.cs3",
-        "name": "SuperVod"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yanetflix.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/unknow8x/phim",
-        "fileSize": 19019,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 3,
-        "internalName": "YaNaiFeiProvider",
-        "url": "https://raw.githubusercontent.com/unknow8x/phim/builds/YaNaiFeiProvider.cs3",
-        "name": "YaNaiFeiProvider"
+        "internalName": "phim4kplugins",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/phim4kplugins.cs3",
+        "name": "phim4kplugins"
     }
 ]
