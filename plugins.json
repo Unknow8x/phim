@@ -13,7 +13,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "phim4kplugins",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/phim4kplugins.cs3",
         "name": "phim4kplugins"
