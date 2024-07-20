@@ -2,7 +2,24 @@
     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
-        "fileSize": 791178,
+        "fileSize": 24667,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "anime",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_anime.cs3",
+        "name": "anime"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "fileSize": 795518,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -10,12 +27,46 @@
         ],
         "tvTypes": [
             "TvSeries",
-            "Movie",
-            "Anime"
+            "Movie"
         ],
-        "version": 3,
-        "internalName": "phim4kplugins",
-        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/phim4kplugins.cs3",
-        "name": "phim4kplugins"
+        "version": 1,
+        "internalName": "movie",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_movie.cs3",
+        "name": "movie"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "fileSize": 23948,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "other",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_other.cs3",
+        "name": "other"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "fileSize": 34595,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "xxx",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_xxx.cs3",
+        "name": "xxx"
     }
 ]
