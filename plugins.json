@@ -2,7 +2,6 @@
     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
-        "fileSize": 24667,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -11,15 +10,14 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
-        "internalName": "anime",
-        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_anime.cs3",
-        "name": "anime"
+        "version": 2,
+        "internalName": "4K_Anime",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Anime.cs3",
+        "name": "4K_Anime"
     },
     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
-        "fileSize": 795518,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -29,15 +27,15 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
-        "internalName": "movie",
-        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_movie.cs3",
-        "name": "movie"
+        "version": 2,
+        "internalName": "4K_English",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_English.cs3",
+        "name": "4K_English"
     },
     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
-        "fileSize": 23948,
+        "fileSize": 230730,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -47,15 +45,30 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
-        "internalName": "other",
-        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_other.cs3",
-        "name": "other"
+        "version": 2,
+        "internalName": "4K_Movie",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Movie.cs3",
+        "name": "4K_Movie"
     },
     {
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
-        "fileSize": 34595,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "4K_Other",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Other.cs3",
+        "name": "4K_Other"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -64,9 +77,9 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 1,
-        "internalName": "xxx",
-        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4k_xxx.cs3",
-        "name": "xxx"
+        "version": 2,
+        "internalName": "4K_Xxx",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Xxx.cs3",
+        "name": "4K_Xxx"
     }
 ]
