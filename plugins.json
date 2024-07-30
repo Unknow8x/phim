@@ -45,7 +45,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "4K_Movie",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Movie.cs3",
         "name": "4K_Movie"
@@ -61,7 +61,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "4K_Other",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Other.cs3",
         "name": "4K_Other"
