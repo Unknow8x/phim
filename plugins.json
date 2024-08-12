@@ -1,5 +1,6 @@
 [
     {
+        "iconUrl": "https://animehay.in/themes/img/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
@@ -16,6 +17,7 @@
         "name": "4K_Anime"
     },
     {
+        "iconUrl": "https://animehay.in/themes/img/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
@@ -33,6 +35,7 @@
         "name": "4K_English"
     },
     {
+        "iconUrl": "https://clbphimxua.com/movie.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "fileSize": 230730,
@@ -51,6 +54,7 @@
         "name": "4K_Movie"
     },
     {
+        "iconUrl": "https://animehay.in/themes/img/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
@@ -67,6 +71,7 @@
         "name": "4K_Other"
     },
     {
+        "iconUrl": "https://animehay.in/themes/img/logo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
