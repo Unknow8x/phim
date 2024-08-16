@@ -17,7 +17,7 @@
         "name": "4K_Anime"
     },
     {
-        "iconUrl": "https://animehay.in/themes/img/logo.png",
+        "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
@@ -48,13 +48,13 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "4K_Movie",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Movie.cs3",
         "name": "4K_Movie"
     },
     {
-        "iconUrl": "https://animehay.in/themes/img/logo.png",
+        "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
@@ -71,7 +71,7 @@
         "name": "4K_Other"
     },
     {
-        "iconUrl": "https://animehay.in/themes/img/logo.png",
+        "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Unknow8x/phim",
         "status": 1,
