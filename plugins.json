@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://animehay.in/themes/img/logo.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "repositoryUrl": "https://google.com",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -19,7 +19,7 @@
     {
         "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "repositoryUrl": "https://google.com",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -37,7 +37,7 @@
     {
         "iconUrl": "https://clbphimxua.com/movie.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "repositoryUrl": "https://google.com",
         "fileSize": 230730,
         "status": 1,
         "language": "vi",
@@ -56,7 +56,7 @@
     {
         "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "repositoryUrl": "https://google.com",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -73,7 +73,7 @@
     {
         "iconUrl": "",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Unknow8x/phim",
+        "repositoryUrl": "https://google.com",
         "status": 1,
         "language": "vi",
         "authors": [
@@ -86,5 +86,22 @@
         "internalName": "4K_Xxx",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Xxx.cs3",
         "name": "4K_Xxx"
-    }
+    },
+       {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://google.com",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "TvAudio"
+        ],
+        "version": 1,
+        "internalName": "4K_Audio",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Audio.cs3",
+        "name": "4K_Audio"
+       }
 ]
