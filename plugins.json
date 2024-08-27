@@ -104,25 +104,7 @@
         "internalName": "4K_Audio",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Audio.cs3",
         "name": "4K_Audio"
-    },
-    {
-        "iconUrl": "",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Rowdy-Avocado"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "CodeStream",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
-        "name": "CodeStream"
-    },
+    },    
     {
         "iconUrl": "",
         "apiVersion": 1,
@@ -140,25 +122,7 @@
         "internalName": "Ultima",
         "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Ultima.cs3",
         "name": "Ultima"
-    },
-    {
-        "iconUrl": "",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "SaurabhKaperwan"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "VadaPav",
-        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VadaPav.cs3",
-        "name": "VadaPav"
-    },
+    },    
     {
         "iconUrl": "",
         "apiVersion": 1,
