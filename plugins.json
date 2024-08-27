@@ -197,7 +197,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Movies4K",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/Movies4K.cs3",
         "name": "Movies4K"
