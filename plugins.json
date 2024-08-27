@@ -104,25 +104,7 @@
         "internalName": "4K_Audio",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Audio.cs3",
         "name": "4K_Audio"
-    },
-    {
-        "iconUrl": "",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Rowdy-Avocado"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "CineZone",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CineZone.cs3",
-        "name": "CineZone"
-    },
+    }, 
     {
         "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
         "apiVersion": 1,
