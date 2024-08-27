@@ -230,7 +230,8 @@
             "h1tm4n"
         ],
         "tvTypes": [
-            "Anime"
+            "TvSeries",
+            "Movie"
         ],
         "version": 2,
         "internalName": "Movies4K",
