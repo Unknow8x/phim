@@ -219,5 +219,23 @@
         "description": "Netflix Content in Multiple Languages",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
         "name": "NetflixMirrorProvider"
+    },
+    {
+        "iconUrl": "https://animehay.in/themes/img/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://google.com",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Movies4K",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/Movies4K.cs3",
+        "name": "Movies4K"
     }
 ]
