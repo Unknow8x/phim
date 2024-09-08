@@ -1,21 +1,4 @@
-[
-    {
-        "iconUrl": "https://animehay.in/themes/img/logo.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "h1tm4n"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 2,
-        "internalName": "4K_Anime",
-        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Anime.cs3",
-        "name": "4K_Anime"
-    },    
+[    
     {
         "iconUrl": "https://clbphimxua.com/movie.png",
         "apiVersion": 1,
