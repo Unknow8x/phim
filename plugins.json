@@ -13,7 +13,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "4K_Movie",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Movie.cs3",
         "name": "4K_Movie"
@@ -32,7 +32,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "4K_Movie_Plus",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Movie_Plus.cs3",
         "name": "4K_Movie_Plus"
@@ -53,6 +53,23 @@
         "internalName": "4K_Other",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Other.cs3",
         "name": "4K_Other"
+    },
+    {
+        "iconUrl": "",
+        "apiVersion": 1,
+        "repositoryUrl": "https://google.com",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "4K_Anime",
+        "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Anime.cs3",
+        "name": "4K_Anime"
     },
     {
         "iconUrl": "",
