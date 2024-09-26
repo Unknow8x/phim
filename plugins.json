@@ -1,6 +1,6 @@
 [    
     {
-        "iconUrl": "https://clbphimxua.com/movie.png",
+        "iconUrl": "https://bluphim.art/Content/BluPhim/Imgs/bluphim2.png",
         "apiVersion": 1,
         "repositoryUrl": "https://google.com",
         "fileSize": 230730,
@@ -13,7 +13,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 14,
+        "version": 15,
         "internalName": "4K_Movie",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Movie.cs3",
         "name": "4K_Movie"
@@ -32,13 +32,13 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "4K_Movie_Plus",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Movie_Plus.cs3",
         "name": "4K_Movie_Plus"
     },
     {
-        "iconUrl": "",
+        "iconUrl": "https://football.vebo5.xyz/images/logo-vebo.png",
         "apiVersion": 1,
         "repositoryUrl": "https://google.com",
         "status": 1,
@@ -49,13 +49,13 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 7,
+        "version": 8,
         "internalName": "4K_Other",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Other.cs3",
         "name": "4K_Other"
     },
     {
-        "iconUrl": "",
+        "iconUrl": "https://cdn.animevietsub.pub/data/logo/logoz.png",
         "apiVersion": 1,
         "repositoryUrl": "https://google.com",
         "status": 1,
@@ -66,7 +66,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "4K_Anime",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Anime.cs3",
         "name": "4K_Anime"
@@ -83,13 +83,13 @@
         "tvTypes": [
             "NSFW"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "4K_Xxx",
         "url": "https://raw.githubusercontent.com/Unknow8x/phim/builds/4K_Xxx.cs3",
         "name": "4K_Xxx"
     },
     {
-        "iconUrl": "",
+        "iconUrl": "https://radiotoday.net/wp-content/uploads/2018/08/today-logo-min.png",
         "apiVersion": 1,
         "repositoryUrl": "https://google.com",
         "status": 1,
