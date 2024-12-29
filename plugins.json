@@ -104,23 +104,5 @@
         "internalName": "4K_Audio",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Audio.cs3",
         "name": "4K_Audio"
-    },
-    {
-        "iconUrl": "",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Rowdy-Avocado"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Ultima",
-        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/Ultima.cs3",
-        "name": "Ultima"
     }
 ]
