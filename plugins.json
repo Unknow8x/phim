@@ -13,7 +13,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 16,
+        "version": 17,
         "internalName": "4K_Movie",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Movie.cs3",
         "name": "4K_Movie"
@@ -32,7 +32,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "4K_Movie_Plus",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Movie_Plus.cs3",
         "name": "4K_Movie_Plus"
@@ -49,7 +49,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "4K_Other",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Other.cs3",
         "name": "4K_Other"
@@ -66,7 +66,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "4K_Anime",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Anime.cs3",
         "name": "4K_Anime"
@@ -75,7 +75,7 @@
         "iconUrl": "",
         "apiVersion": 1,
         "repositoryUrl": "https://google.com",
-        "status": 1,
+        "status": 0,
         "language": "vi",
         "authors": [
             "h1tm4n"
@@ -100,7 +100,7 @@
         "tvTypes": [
             "TvAudio"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "4K_Audio",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Audio.cs3",
         "name": "4K_Audio"
