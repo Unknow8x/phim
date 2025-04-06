@@ -67,9 +67,9 @@
             "Live"
         ],
         "version": 9,
-        "internalName": "4K_IPTV",
-        "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_IPTV.cs3",
-        "name": "4K_IPTV"
+        "internalName": "IPTV",
+        "url": "https://github.com/Unknow8x/phim/raw/refs/heads/builds/4K_IPTV.cs3",
+        "name": "IPTV"
     },
     {
         "iconUrl": "https://github.com/Unknow8x/phim/blob/master/photo_2024-10-18_17-03-45.jpg?raw=true",
