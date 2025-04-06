@@ -1,6 +1,6 @@
 {
-    "name": "Phim 4K",
-    "description": "Phim Trung",
+    "name": "Movies4K Official",
+    "description": "Tổng hợp web phim việt",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/unknow8x/phim/builds/plugins.json"
