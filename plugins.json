@@ -58,7 +58,7 @@
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
         "apiVersion": 1,
         "repositoryUrl": "https://google.com",
-        "status": 1,
+        "status": 0,
         "language": "vi",
         "authors": [
             "h1tm4n"
