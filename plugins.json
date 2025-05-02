@@ -53,24 +53,7 @@
         "internalName": "4K_Other",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Other.cs3",
         "name": "4K_Other"
-    },
-    {
-        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "h1tm4n"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "IPTV",
-        "url": "https://github.com/Unknow8x/phim/raw/refs/heads/builds/4K_IPTV.cs3",
-        "name": "IPTV"
-    },
+    },    
     {
         "iconUrl": "https://github.com/Unknow8x/phim/blob/master/photo_2024-10-18_17-03-45.jpg?raw=true",
         "apiVersion": 1,
@@ -87,23 +70,6 @@
         "internalName": "4K_Anime",
         "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Anime.cs3",
         "name": "4K_Anime"
-    },
-    {
-        "iconUrl": "",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 0,
-        "language": "vi",
-        "authors": [
-            "h1tm4n"
-        ],
-        "tvTypes": [
-            "NSFW"
-        ],
-        "version": 4,
-        "internalName": "4K_Xxx",
-        "url": "https://4k-loz9.vercel.app/download?folder=repo&file=4K_Xxx.cs3",
-        "name": "4K_Xxx"
     },
     {
         "iconUrl": "https://radiotoday.net/wp-content/uploads/2018/08/today-logo-min.png",
