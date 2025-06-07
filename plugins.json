@@ -53,24 +53,7 @@
         "internalName": "4K_Other",
         "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Other.cs3",
         "name": "4K_Other"
-    },    
-    {
-        "iconUrl": "https://github.com/Unknow8x/phim/blob/master/photo_2024-10-18_17-03-45.jpg?raw=true",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "h1tm4n"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 7,
-        "internalName": "4K_Anime",
-        "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Anime.cs3",
-        "name": "4K_Anime"
-    },
+    },        
     {
         "iconUrl": "https://radiotoday.net/wp-content/uploads/2018/08/today-logo-min.png",
         "apiVersion": 1,
