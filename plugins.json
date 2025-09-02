@@ -17,26 +17,7 @@
         "internalName": "4K_Movie",
         "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Movie.cs3",
         "name": "4K_Movie"
-    },
-    {
-        "iconUrl": "https://clbphimxua.com/movie.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://google.com",
-        "fileSize": 230730,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "h1tm4n"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "4K_Movie_Plus",
-        "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Movie_Plus.cs3",
-        "name": "4K_Movie_Plus"
-    },
+    },   
     {
         "iconUrl": "https://football.vebo5.xyz/images/logo-vebo.png",
         "apiVersion": 1,
