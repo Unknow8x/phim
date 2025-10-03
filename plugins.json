@@ -30,7 +30,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 9,
+        "version": 10,
         "internalName": "4K_Other",
         "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Other.cs3",
         "name": "4K_Other"
@@ -47,7 +47,7 @@
         "tvTypes": [
             "TvAudio"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "4K_Audio",
         "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Audio.cs3",
         "name": "4K_Audio"
@@ -69,5 +69,5 @@
         "internalName": "4K_Anime",
         "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Anime.cs3",
         "name": "4K_Anime"
-    },   
+    }
 ]
