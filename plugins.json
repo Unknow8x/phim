@@ -51,5 +51,23 @@
         "internalName": "4K_Audio",
         "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Audio.cs3",
         "name": "4K_Audio"
-    }
+    },
+    {
+        "iconUrl": "https://www.nicepng.com/png/detail/127-1271471_anime-icon-folder-v1-all-anime-folder-icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://google.com",
+        "fileSize": 260730,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "h1tm4n"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 10,
+        "internalName": "4K_Anime",
+        "url": "https://gitlab.com/netcrk-group/test/-/raw/main/repo/4K_Anime.cs3",
+        "name": "4K_Anime"
+    },   
 ]
