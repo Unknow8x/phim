@@ -43,6 +43,10 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="KÊNH PHIM" tvg-logo="https://i.imgur.com/P0wqvmu.png",HTVC PHIM HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="KÊNH PHIM" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
+https://sgclient.duckdns.org/source/tv360.m3u8?id=180
+#EXTINF:-1 tvg-id="onechannel" group-title="KÊNH PHIM" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON E- Channel
+https://sgclient.duckdns.org/source/tv360.m3u8?id=182
 #EXTINF:-1 tvg-id="onphimviet" group-title="KÊNH PHIM" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ONPHIMVIET.png", ON Phim Việt
 https://sgclient.duckdns.org/source/tv360.m3u8?id=175
 #EXTINF:-1 tvg-id="onmovies" group-title="KÊNH PHIM" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg", On Movies - You TV
@@ -88,10 +92,6 @@ https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/onPtlVa.png",SCTV21 - VIỆT NAM KÝ ỨC HD
 https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
 
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg", ON Vie Giải Trí
-https://sgclient.duckdns.org/source/tv360.m3u8?id=180
-#EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onechannel.png", ON E- Channel
-https://sgclient.duckdns.org/source/tv360.m3u8?id=182
 #EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/ono2tv.png", On O2TV
 https://sgclient.duckdns.org/source/tv360.m3u8?id=136
 #EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/onbibi.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
