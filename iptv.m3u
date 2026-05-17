@@ -38,7 +38,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="KÊNH PHIM" tvg-logo="https://i.imgur.com/ldCYtvt.png", SCTV16 - PHIM NƯỚC NGOÀI ĐẶC SẮC HD
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV PHIM TỔNG HỢP HD
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="KÊNH PHIM" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV PHIM TỔNG HỢP HD
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="KÊNH PHIM" tvg-logo="https://i.imgur.com/P0wqvmu.png",HTVC PHIM HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -59,6 +59,8 @@ https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/wvLFf1j5/HTVTT.png",HTV THỂ THAO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="ongolf" group-title="KÊNH THỂ THAO" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
+https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="KÊNH SCTV" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1 HD
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
@@ -119,8 +121,6 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=179
 #EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sgclient.duckdns.org/source/tv360.m3u8?id=188
-#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
-https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 
 #EXTINF:-1 tvg-id="htv1" group-title="KÊNH HTV" group-logo="https://i.postimg.cc/bw1Jv8rt/HTV-New.png" tvg-logo="https://i.postimg.cc/Z5wQpvCD/HTV1.png",HTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
