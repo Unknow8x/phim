@@ -57,19 +57,19 @@ https://liveh34.vtvprime.vn/hls/SCTV14/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="KÊNH PHIM" tvg-logo="https://i.imgur.com/ldCYtvt.png", SCTV16 - PHIM NƯỚC NGOÀI ĐẶC SẮC HD
 https://liveh34.vtvprime.vn/hls/SCTV16/index.m3u8
 
+#EXTINF:-1 tvg-id="vtv10" group-title="KÊNH THỂ THAO" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",VTV6
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtvwc" group-title="KÊNH THỂ THAO" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/display-block/20260611/2026061114/b0dAwHVuk7-97geZG4YUu-z7853890227771_bf37a41eec686427298ba2e4148c8cc1_464.webp",VTV World Cup
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/wcfun/master-pre_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv10" group-title="KÊNH VTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",VTV6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="sctv22hd" group-title="KÊNH THỂ THAO" group-logo="https://i.imgur.com/jm7qmWf.jpg" tvg-logo="https://i.imgur.com/9652uFO.png",SCTV22 - SSPORT1 HD
-https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="KÊNH THỂ THAO" tvg-logo="https://i.postimg.cc/wvLFf1j5/HTVTT.png",HTV THỂ THAO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ongolf" group-title="KÊNH THỂ THAO" tvg-logo="https://img.lichphatsong.site/logo/on-golf.jpg", On Golf
 https://sgclient.duckdns.org/source/tv360.m3u8?id=169
+#EXTINF:-1 tvg-id="sctv22hd" group-title="KÊNH THỂ THAO" group-logo="https://i.imgur.com/jm7qmWf.jpg" tvg-logo="https://i.imgur.com/9652uFO.png",SCTV22 - SSPORT1 HD
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="KÊNH SCTV" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1 HD
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
